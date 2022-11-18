@@ -1,1 +1,1 @@
-# IETI-Proyecto-Integrador-configuraci-n-servicios-para-consumir-API-REST-con-Retrofit
+# IETI-Proyecto-Integrador-configuracion-servicios-para-consumir-API-REST-con-Retrofit
